@@ -1,0 +1,15 @@
+body{
+  background-color:  Beige;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color:   #330d00;
+  width: 6%;
+}
+h1, h3{
+  color:  #330d00;
+}
+a{
+  color: black;
+}
